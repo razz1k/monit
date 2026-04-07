@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:razz1k/monit-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:razz1k/monit-server.git
